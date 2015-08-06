@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @2 @3 Member=.ctor)" Category="CodeSchema_Method" Bounds="-519.968852342618,18.1262996177638,110.3992,25.96006272" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" DelayedCrossGroupLinksState="Fetched" Label="UserMetadata" />
+    <Node Id="7f1e6462-f548-4812-9aff-091ae106ec9c1" Bounds="186.890646251877,-28.571611220394,76.6042933333333,25.96" Label="New Node" UseManualLocation="True" />
+    <Node Id="85babe87-3cd6-41a1-b0ef-63704f9f10d01" Bounds="198.554217047978,-17.4925251546321,96.5633333333334,25.96" Group="Collapsed" Label="New Node" UseManualLocation="True" />
+    <Node Id="@10" Category="CodeSchema_Property" Bounds="-372.624161788294,-124.722604172286,129.235346659022,25.96006272" CodeSchemaProperty_IsPublic="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="SecondName" />
+    <Node Id="@11" Category="CodeSchema_Property" Bounds="-519.993223242342,-124.722541452286,117.369061454049,25.96" CodeSchemaProperty_IsPublic="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="ThirdName" />
+    <Node Id="@12" Category="CodeSchema_Method" Bounds="-287.33767171892,-180.682766892286,80.7790506666666,25.96006272" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsVirtual="True" DelayedCrossGroupLinksState="Fetched" Label="ToString" />
+    <Node Id="@4" Category="CodeSchema_Class" Bounds="-539.993223242342,-221.682866892286,580.910773623654,285.769329230049" CodeSchemaProperty_IsPublic="True" CommonLabel="UserMetadata" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="9" Group="Expanded" Icon="Microsoft.VisualStudio.Class.Public" Label="UserMetadata" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///C:/Users/vadik_000/Documents/Visual Studio 2012/Projects/Niva/Niva.Model/Class1.cs&quot; StartLineNumber=8 StartCharacterOffset=4 EndLineNumber=8 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="@5" Category="CodeSchema_Property" Bounds="-171.074512681649,-68.7366780327882,93.8923947873815,25.96" CodeSchemaProperty_IsPublic="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Adress" />
+    <Node Id="@6" Category="CodeSchema_Property" Bounds="-91.3281777394035,-124.696778032788,112.245728120715,25.96" CodeSchemaProperty_IsPublic="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="FirstName" />
+    <Node Id="@7" Category="CodeSchema_Property" Bounds="-403.579529318268,-68.7624414522855,68.7090614540482,25.96" CodeSchemaProperty_IsPublic="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Id" />
+    <Node Id="@8" Category="CodeSchema_Property" Bounds="-304.860340802364,-37.8337963327313,103.785728120715,25.96" CodeSchemaProperty_IsPublic="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Passport" />
+    <Node Id="@9" Category="CodeSchema_Property" Bounds="-213.383905860118,-124.722540740596,92.0557281207149,25.96" CodeSchemaProperty_IsPublic="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Phone" />
+    <Node Id="ClientDocs" Bounds="345.117779852015,-93.4350751698601,76.4399482666668,25.96" />
+    <Node Id="Engineer" Bounds="325.117550381312,-17.4550031555176,66.35,25.96" UseManualLocation="True" />
+    <Node Id="EngineerOffice" Bounds="70.9175503813115,-17.5235981750488,97.6366666666667,25.96" UseManualLocation="True" />
+    <Node Id="Executor" Bounds="345.117550381311,-149.39517516986,65.5550922666666,25.96" />
+    <Node Id="InDoc" Bounds="451.574420089632,-93.4350751698602,91.4808609066665,25.96" Label="ExecutorDocs" />
+    <Node Id="Order" Bounds="344.968607844291,38.4984502288017,50.7366666666667,25.96" UseManualLocation="True" />
+    <Node Id="User" Bounds="223.542736258198,-73.4215497711983,50,25.96" UseManualLocation="True" />
+    <Node Id="c6fc151c-0821-426d-a7dc-86cea9fe05701" Bounds="186.890646251877,-84.417005140394,76.6042933333333,25.96" Label="New Node" UseManualLocation="True" />
+    <Node Id="fbc58076-26c4-4a0f-8d8f-9fe71956a5e61" Bounds="293.415419732525,-84.472799349078,76.5633333333333,25.96" Label="New Node" UseManualLocation="True" />
+    <Node Id="Заказ" Bounds="421.467550381312,-17.4748751698601,71.1966666666667,25.96" Label="Сustomer" UseManualLocation="True" />
+    <Node Id="Заказ1" Bounds="325.117550381311,-190.35527516986,237.937730614987,142.8803" Group="Expanded" Label="Заказ" UseManualLocation="True" />
+    <Node Id="Заказчи" Bounds="440.672642647978,-149.39517516986,69.7559733333333,25.96" Label="Заказчик" />
+  </Nodes>
+  <Links>
+    <Link Source="85babe87-3cd6-41a1-b0ef-63704f9f10d01" Target="7f1e6462-f548-4812-9aff-091ae106ec9c1" Category="Contains" />
+    <Link Source="85babe87-3cd6-41a1-b0ef-63704f9f10d01" Target="c6fc151c-0821-426d-a7dc-86cea9fe05701" Category="Contains" />
+    <Link Source="85babe87-3cd6-41a1-b0ef-63704f9f10d01" Target="fbc58076-26c4-4a0f-8d8f-9fe71956a5e61" Category="Contains" />
+    <Link Source="@12" Target="@10" Category="CodeSchema_Calls" Bounds="-287.209000217302,-154.722704172286,26.0982932461578,23.9191679167846" IsTargetVirtualized="True" Weight="1" />
+    <Link Source="@12" Target="@11" Category="CodeSchema_Calls" Bounds="-402.879479581156,-157.172094914042,115.592769129915,30.1762330407567" IsTargetVirtualized="True" Weight="1" />
+    <Link Source="@12" Target="@5" Category="CodeSchema_Calls" Bounds="-243.102111816406,-154.722702026367,71.1830902099609,83.1599655151367" IsTargetVirtualized="True" Weight="1" />
+    <Link Source="@12" Target="@6" Category="CodeSchema_Calls" Bounds="-206.636382682405,-157.044085789255,113.638801834249,30.0467177493729" IsTargetVirtualized="True" Weight="1" />
+    <Link Source="@12" Target="@7" Category="CodeSchema_Calls" Bounds="-379.177490234375,-157.934448242188,91.8398132324219,80.3009872436523" IsTargetVirtualized="True" Weight="1" />
+    <Link Source="@12" Target="@8" Category="CodeSchema_Calls" Bounds="-249.053894042969,-154.722702026367,12.6152648925781,108.030025482178" IsTargetVirtualized="True" Weight="1" />
+    <Link Source="@12" Target="@9" Category="CodeSchema_Calls" Bounds="-228.486666446531,-154.722704172286,35.3067961557758,24.8237585955171" IsTargetVirtualized="True" Weight="1" />
+    <Link Source="@4" Target="(@1 @2 @3 Member=.ctor)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@10" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@11" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@12" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@5" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@6" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@7" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@8" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@9" Category="Contains" FetchingParent="@4" />
+    <Link Source="Engineer" Target="Order" Bounds="361.086262950786,8.50499684448241,4.56326212906129,21.201587837774" />
+    <Link Source="Executor" Target="Заказ" Category="гнгн" Bounds="235.668249786188,-63.6950448690178,210.388180844542,62.2920605655199" />
+    <Link Source="User" Target="85babe87-3cd6-41a1-b0ef-63704f9f10d01" Bounds="247.50616883412,-47.492625154629,0.640652358113186,21.004283490006" />
+    <Link Source="User" Target="Engineer" Bounds="272.521635740369,-48.2378722334357,52.3146189650294,26.6924729695593" />
+    <Link Source="User" Target="EngineerOffice" Bounds="157.884718123194,-49.6676348375476,65.773671038158,28.5594879626434" />
+    <Link Source="User" Target="Заказ" Bounds="273.542724609375,-53.7614101719674,139.232579520698,37.3767909501575" />
+    <Link Source="Заказ" Target="Order" Category="гнгн" Bounds="398.008321351144,8.48512483013989,38.9478447019923,25.1392402788176" />
+    <Link Source="Заказ1" Target="ClientDocs" Category="Contains" />
+    <Link Source="Заказ1" Target="Executor" Category="Contains" />
+    <Link Source="Заказ1" Target="InDoc" Category="Contains" />
+    <Link Source="Заказ1" Target="Заказчи" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Calls" Label="Calls" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Called By" OutgoingActionLabel="Calls" />
+    <Category Id="CodeSchema_Class" Label="Class" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="Classes" />
+    <Category Id="CodeSchema_Member" Label="Member" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="Members" />
+    <Category Id="CodeSchema_Method" Label="Method" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="Methods" />
+    <Category Id="CodeSchema_Property" Label="Property" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Property" NavigationActionLabel="Properties" />
+    <Category Id="CodeSchema_Type" Label="Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="Types" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="гнгн" Label="1" IsTag="True" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="Is Constructor" Description="Flag to indicate the method is a constructor" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Is Public" Description="Flag to indicate the scope is Public" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsSpecialName" Label="Is Special Name" Description="Flag to indicate the method is treated in a special way by some compilers" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsVirtual" Label="Is Virtual" Description="Flag to indicate the method can be overridden" DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="Delayed Child Nodes State" Description="Unspecified if the delayed child nodes state is not specified. NotFetched if the group contains child nodes that are not fetched into the graph yet. Fetched if the group has all its delayed child nodes already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchedChildrenCount" DataType="System.Int32" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsTag" DataType="System.Boolean" />
+    <Property Id="IsTargetVirtualized" Label="Link Target Virtualized" Description="If true, the link target end contains data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Language" Label="Language" Description="Language" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Weight" Label="Weight" Description="Weight" DataType="System.Double" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="Member" Label="Member" ValueType="System.Object" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(ed6410a4-6186-48c6-9e69-ddcd29005b0a.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=Niva.Model" />
+    <Alias n="3" Id="Type=UserMetadata" />
+    <Alias n="4" Id="(@1 @2 @3)" />
+    <Alias n="5" Id="(@1 @2 @3 Member=Adress)" />
+    <Alias n="6" Id="(@1 @2 @3 Member=FirstName)" />
+    <Alias n="7" Id="(@1 @2 @3 Member=Id)" />
+    <Alias n="8" Id="(@1 @2 @3 Member=Passport)" />
+    <Alias n="9" Id="(@1 @2 @3 Member=Phone)" />
+    <Alias n="10" Id="(@1 @2 @3 Member=SecondName)" />
+    <Alias n="11" Id="(@1 @2 @3 Member=ThirdName)" />
+    <Alias n="12" Id="(@1 @2 @3 Member=ToString)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Comment" ValueLabel="Has comment">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="ed6410a4-6186-48c6-9e69-ddcd29005b0a.OutputPathUri" Value="file:///C:/Users/vadik_000/Documents/Visual Studio 2012/Projects/Niva/Niva.Model/bin/Debug/Niva.Model.dll" />
+  </Paths>
+</DirectedGraph>
